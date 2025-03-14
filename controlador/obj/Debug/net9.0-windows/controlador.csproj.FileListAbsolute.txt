@@ -1,0 +1,12 @@
+C:\Users\juandi\source\repos\appPrueba\controlador\bin\Debug\net9.0-windows\controlador.deps.json
+C:\Users\juandi\source\repos\appPrueba\controlador\bin\Debug\net9.0-windows\controlador.dll
+C:\Users\juandi\source\repos\appPrueba\controlador\bin\Debug\net9.0-windows\controlador.pdb
+C:\Users\juandi\source\repos\appPrueba\controlador\obj\Debug\net9.0-windows\controlador.csproj.AssemblyReference.cache
+C:\Users\juandi\source\repos\appPrueba\controlador\obj\Debug\net9.0-windows\controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juandi\source\repos\appPrueba\controlador\obj\Debug\net9.0-windows\controlador.AssemblyInfoInputs.cache
+C:\Users\juandi\source\repos\appPrueba\controlador\obj\Debug\net9.0-windows\controlador.AssemblyInfo.cs
+C:\Users\juandi\source\repos\appPrueba\controlador\obj\Debug\net9.0-windows\controlador.csproj.CoreCompileInputs.cache
+C:\Users\juandi\source\repos\appPrueba\controlador\obj\Debug\net9.0-windows\controlador.dll
+C:\Users\juandi\source\repos\appPrueba\controlador\obj\Debug\net9.0-windows\refint\controlador.dll
+C:\Users\juandi\source\repos\appPrueba\controlador\obj\Debug\net9.0-windows\controlador.pdb
+C:\Users\juandi\source\repos\appPrueba\controlador\obj\Debug\net9.0-windows\ref\controlador.dll
